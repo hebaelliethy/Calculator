@@ -165,6 +165,7 @@ function operationperc(){
  document.lcdform.lcds.value = "0";  
  document.lcdform.lcdsu.value = firstnumber + operation;  
    
+   
 }  
 
 
