@@ -160,6 +160,7 @@ function operationdivid(){
 }  
 function operationperc(){  
    
+   
  operation = "%";  
  firstnumber = parseInt(document.lcdform.lcds.value);  
  document.lcdform.lcds.value = "0";  
